@@ -15,7 +15,7 @@
 
 Hi, I'm Ian Mateus, but you can call me **Mateus**. 
 
-I'm a Full Stack programmer (ReactJs, React Native and Node.Js) and Data Science developer. Lives in Brazil 💚, **22 years old** 😜 and **4 years of coding** 🧐. 
+I'm a Full Stack programmer (ReactJs, React Native and Node.Js) and Data Science developer. Lives in Brazil 💚, **24 years old** 😜 and **6 years of coding** 🧐. 
 
 **A book lover** 📕 and **programming enthusiast** 👨‍💻. 
 
