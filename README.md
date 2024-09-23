@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Ian Mateus!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### 👋 Hello World, I'm Ian Mateus!
 
 <a target="_blank" href="https://www.linkedin.com/in/ianmateuses/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" />
